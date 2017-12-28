@@ -1,0 +1,7 @@
+REFRESH_TOKEN = ""
+CLIENT_ID = ""
+CLIENT_SECRET = ""
+
+MQTT_SERVER = "MQTT_SERVER-HERE"
+MQTT_PORT = 1883
+MQTT_TOPIC = "/spotify/now_playing"
